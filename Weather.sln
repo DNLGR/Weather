@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{ABBBA8AE-CAA5-492E-83E9-8CAAFC973325}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{422CB581-7E7B-4043-972C-1323FE60A17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Models\Components.csproj", "{79C960C7-1A05-4357-B28A-CA3438F9A5B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ABBBA8AE-CAA5-492E-83E9-8CAAFC973325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABBBA8AE-CAA5-492E-83E9-8CAAFC973325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABBBA8AE-CAA5-492E-83E9-8CAAFC973325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422CB581-7E7B-4043-972C-1323FE60A17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422CB581-7E7B-4043-972C-1323FE60A17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422CB581-7E7B-4043-972C-1323FE60A17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422CB581-7E7B-4043-972C-1323FE60A17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C960C7-1A05-4357-B28A-CA3438F9A5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C960C7-1A05-4357-B28A-CA3438F9A5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C960C7-1A05-4357-B28A-CA3438F9A5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C960C7-1A05-4357-B28A-CA3438F9A5B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
